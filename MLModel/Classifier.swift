@@ -1,5 +1,5 @@
 //
-//  Classifier.swift
+//  Classifier
 //  MLModel
 //
 //  Created by Ankit Kaushik on 26/12/23.
